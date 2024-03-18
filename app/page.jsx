@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Hello  v3 check out folder</h1>;
+  return <h1>Hello  v4 compare pages</h1>;
 }
